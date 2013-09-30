@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+  <head>
+    <title>HUD AGO homepage on Fri, 27 Sep 2013 13:29:59 GMT</title>
+  </head>
+  <body>
+<table border="0" align="center">
+<tr>
+  <td style='padding: 1px 30px'>
+  <a href="http://egis.hud.gov/ArcGIS/rest/services"><img src="https://raw.github.com/zwhitman/hud_ago_iconset/master/layers.png" border="0"width="100" />
+  </a>
+  </td>
+  
+<td style='padding: 1px 30px'> 
+  <a href="http://hud.maps.arcgis.com/home/webmap/viewer.html?useExisting=1"><img src="https://raw.github.com/zwhitman/hud_ago_iconset/master/makemap.png" border="0"width="100" /></a></td>
+  
+  <td style='padding: 1px 30px'> 
+  <a href="http://www.huduser.org/portal/datasets/gis.html"><img src="https://raw.github.com/zwhitman/hud_ago_iconset/master/gisdata.png" border="0"width="100" /></a></td>
+  
+
+  
+  <td style='padding: 1px 30px'>
+  <a href="http://www.youtube.com/user/HUDGISworkshop"><img src="https://raw.github.com/zwhitman/hud_ago_iconset/master/tutorial.png" border="0"width="100" />
+  </a>
+  </td>  
+  
+    <td style='padding: 1px 30px'> 
+  <a href="http://resources.arcgis.com/en/help/arcgisonline-content/index.html#/Overview/011q0000000m000000/"><img src="https://raw.github.com/zwhitman/hud_ago_iconset/master/help.png" border="0"width="100" /></a></td>
+  
+</tr>
+<tr>
+<th>LAYERS</th>
+<th>MAKE A MAP</th>
+<th>GIS DATA</th>
+<th>TUTORIALS</th>
+<th>HELP</th>
+</tr>
+ 
+  
+</table>
+  </body>
+</html>
+
